@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm walid</h1>
 <h3 align="center">A passionate frontend developer from morroco</h3>
 
-- 🔭 I’m currently working on **wro**
+- 🔭 I’m currently working on **WRO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
