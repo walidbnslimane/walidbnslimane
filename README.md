@@ -69,7 +69,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6kiNWTfkYHcDxY3V4w-NSg69GUKeIE_1DQ&s" height="40" alt="illustrator logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/768px-Adobe_Illustrator_CC_icon.svg.png?20220814183839" height="40" alt="illustrator logo"  />
 </div>
 
 ###
