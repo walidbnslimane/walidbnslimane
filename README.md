@@ -67,9 +67,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFo0J6E3t1f-LsIqy_sgwody_oh3viUwV66Q&s" height="40" alt="photoshop logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-7x7MI7yEhvJC2rj4cwilgRk6WAS0fwMGw&s" height="40" alt="illustrator logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6kiNWTfkYHcDxY3V4w-NSg69GUKeIE_1DQ&s" height="40" alt="illustrator logo"  />
 </div>
 
 ###
