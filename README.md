@@ -59,7 +59,7 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" height="40" alt="aftereffects logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTlRTVHi3l7nOcFO4cni11SqS6oSVh0aRRg&s" height="40" alt="blender logo"  />
+  <img src="https://w7.pngwing.com/pngs/414/62/png-transparent-blender-hd-logo-thumbnail.png" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://i.pcmag.com/imagery/reviews/05GF8sMpHfawiyKgGnrgf7X-8.fit_lim.size_1050x591.v1665503374.jpg" height="40" alt="canva logo"  />
   <img width="12" />
