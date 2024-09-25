@@ -1,5 +1,11 @@
-<h2 align="center">Hi 👋! My name is Walid and I'm a Developper</h2>
+<h2 align="center">Hi 👋! My name is Walid </h2>
+<h3 align="center">I am a developer passionate about programming and multimedia creation. I have diverse experience in software development, graphic design, and 3D animation.</h3>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+- 📫 How to reach me: **walid.benslimane3@gmail.com**
 ###
 
 <p align="left">🛠️ My Skills</p>
