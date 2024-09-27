@@ -2,7 +2,7 @@
 <h3 align="center">I'm a dedicated developer with a passion for programming and multimedia creation, bringing a wide range of experience in software development, graphic design, and 3D animation.</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=walidbnslimane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 - 📫 How to reach me: **walid.benslimane3@gmail.com**
