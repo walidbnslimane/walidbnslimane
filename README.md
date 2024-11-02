@@ -77,7 +77,7 @@
 
 ###
 
-<p align="left">📊 Stats</p>
+### 📊 Stats
 
 ###
 
