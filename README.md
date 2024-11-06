@@ -4,6 +4,12 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
+- 🔭 I’m currently working on [Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning/2024-10)
+
+- 🌱 I’m currently learning **Data Science and Machine Learning**
+
+
+
 
 - 📫 How to reach me: **walid.benslimane3@gmail.com**
 
