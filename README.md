@@ -4,9 +4,9 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
-- 🔭 I’m currently working on [Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning/2024-10)
+- 🔭 I’m currently working on [CS50X: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **C**
 
 
 
